@@ -1,3 +1,3 @@
 module.exports = function () {
-  return "Hi";
+  return "Hi there";
 };
